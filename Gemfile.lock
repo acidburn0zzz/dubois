@@ -159,7 +159,7 @@ GEM
     rake (10.1.1)
     rdoc (4.1.1)
       json (~> 1.4)
-    redcarpet (2.2.2)
+    redcarpet (3.5.1)
     ref (1.0.5)
     rspec-core (2.14.7)
     rspec-expectations (2.14.5)
