@@ -54,6 +54,7 @@ GEM
       execjs
     coffee-script-source (1.7.0)
     columnize (0.3.6)
+    concurrent-ruby (1.1.10)
     coolline (0.4.3)
     curb (0.8.4)
     debug_inspector (0.0.2)
@@ -78,7 +79,8 @@ GEM
       posix-spawn (~> 0.3.6)
     hike (1.2.3)
     hirb (0.7.1)
-    i18n (0.6.9)
+    i18n (0.9.5)
+      concurrent-ruby (~> 1.0)
     jazz_hands (0.5.2)
       awesome_print (~> 1.2)
       coolline (>= 0.4.2)
